@@ -1,4 +1,4 @@
-NEW_WYR = [
+WOULD_YOU_RATHER = [
     "Would you rather always speak in slow motion or always move in fast forward?",
     "Would you rather have everything you eat taste like broccoli or have everything smell like petrol?",
     "Would you rather have no eyebrows or one giant unibrow you can't shave?",
